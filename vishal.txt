@@ -1,2 +1,6 @@
 Vishal Rajput
+<<<<<<< HEAD
 shivam
+=======
+FACT
+>>>>>>> c1
